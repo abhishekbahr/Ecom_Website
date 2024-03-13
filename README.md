@@ -52,5 +52,10 @@ _**ADMIN PAGE**_
 **EDIT/DELETE PRODUCT PAGE**
 ![image](https://github.com/abhishekbahr/Ecom_Website/assets/96624688/c071e5cf-a36b-4e1a-ab25-03bdab5e4c2a)
 
+---
+**ADMIN ORDER PAGE**
+![image](https://github.com/abhishekbahr/Ecom_Website/assets/96624688/22754657-45ef-4903-9027-418e5fde1b60)
+
+
 
 
